@@ -1,7 +1,7 @@
 # DỰ ÁN: TỪ DỮ LIỆU ĐẾN PHÂN TÍCH VỚI PYTHON
-   - **Họ và tên:** [Tên sinh viên]
-   - **MSSV:** [Mã sinh viên]
-   - **Lớp:** [Mã lớp]
+   - **Họ và tên:** [Võ Trọng Đức]
+   - **MSSV:** [2400006074]
+   - **Lớp:** [24DTH2B]
 
    ## Trả lời câu hỏi thu hoạch
    - **Câu 1:** ...
